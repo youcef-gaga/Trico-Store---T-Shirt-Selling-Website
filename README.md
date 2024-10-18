@@ -4,7 +4,7 @@
 **Trico Store** is my first project web-based e-commerce platform for selling t-shirts. Users can browse through the available t-shirt products, check details, and purchase items online. The system includes a front-end interface built with **Laravel Blade**, and a back-end powered by **Laravel**, **PHP**, and **MySQL**. This is not a complete site but a base to start with.
 ![Screenshot of App](image_1.png)
 ![Screenshot of App](image_2.png)
----
+![Screenshot of App](image_3.png)
 
 ## Prerequisites
 Before running the project, ensure the following are installed:
